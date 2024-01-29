@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hanna-hemati
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning front-end web development 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Devops development 
 - 📫 How to reach me ( https://www.linkedin.com/in/fatemeh-hemati-559a52241 )
 
 <!---
