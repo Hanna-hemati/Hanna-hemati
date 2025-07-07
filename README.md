@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @Hanna-H
-- emati👩‍💻, a computer engineering student and passionate learner. 
+- 👋 Hi, I’m @Hanna-Hemati👩‍💻, a computer engineering student and passionate learner. 
